@@ -1,2 +1,4 @@
-.ve-header "Maxfield Parish's At Close of Day"
+.ve-header "Maxfield Parrish's At Close of Day"
+Maxfield Parrish
+
 .ve-media https://uploads7.wikiart.org/images/maxfield-parrish/at-close-of-day-1941.jpg 
